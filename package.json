@@ -1,6 +1,6 @@
 {
     "name": "jspp",
-    "displayName": "JS++",
+    "displayName": "JS++", 
     "description": "JS++ language support - syntax highlighting and more",
     "publisher": "onux",
     "version": "0.0.14",
