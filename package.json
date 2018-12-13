@@ -1,9 +1,9 @@
 {
     "name": "jspp",
-    "displayName": "JS++", 
+    "displayName": "JS++",
     "description": "JS++ language support - syntax highlighting and more",
     "publisher": "onux",
-    "version": "0.0.14",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^0.10.5"
     },
